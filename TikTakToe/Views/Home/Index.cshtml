@@ -1,0 +1,101 @@
+﻿<div class="text-center">
+    <h1 class="header">TikTakToe</h1>
+    <p class="text">Click a Box to place your Symbol</p>
+</div>
+<div class="board">
+    <!-- cells on the grid -->
+    <div class="cell" id="cellone"></div>
+    <div class="cell" id="celltwo"></div>
+    <div class="cell" id="cellthree"></div>
+    <div class="cell" id="cellfour"></div>
+    <div class="cell" id="cellfive"></div>
+    <div class="cell" id="cellsix"></div>
+    <div class="cell" id="cellseven"></div>
+    <div class="cell" id="celleight"></div>
+    <div class="cell" id="cellnine"></div>
+</div>
+<script>// Get all cell elements
+    const cells = document.querySelectorAll('.cell');
+
+    // Function to get empty cells
+    function getEmptyCells() {
+        const emptyCells = [];
+        cells.forEach(cell => {
+            if (!cell.textContent) {
+                emptyCells.push(cell);
+            }
+        });
+        return emptyCells;
+    }
+
+    // Function to place 'O' in a random empty cell with delay
+    function placeOWithDelay() {
+        setTimeout(() => {
+            const emptyCells = getEmptyCells();
+            if (emptyCells.length > 0) {
+                const randomIndex = Math.floor(Math.random() * emptyCells.length);
+                const randomCell = emptyCells[randomIndex];
+                randomCell.textContent = 'O';
+                randomCell.style.color = "red"; // Just for demonstration
+                randomCell.style.fontSize = "5em"; // Just for demonstration
+                checkWinner(); // Check for winner after placing 'O'
+            }
+        }, 1000); // Change delay time (in milliseconds) as needed
+    }
+
+    // Function to check for winner
+    function checkWinner() {
+        const lines = [
+            // Horizontal lines
+            [0, 1, 2],
+            [3, 4, 5],
+            [6, 7, 8],
+            // Vertical lines
+            [0, 3, 6],
+            [1, 4, 7],
+            [2, 5, 8],
+            // Diagonal lines
+            [0, 4, 8],
+            [2, 4, 6]
+        ];
+
+        let allCellsFilled = true;
+
+        lines.forEach(line => {
+            const [a, b, c] = line;
+            if (cells[a].textContent && cells[a].textContent === cells[b].textContent && cells[a].textContent === cells[c].textContent) {
+                alert(cells[a].textContent + ' wins!');
+                // Reload the page if a player wins
+                location.reload();
+            }
+        });
+
+        // Check if all cells are filled
+        cells.forEach(cell => {
+            if (!cell.textContent) {
+                allCellsFilled = false;
+            }
+        });
+
+        // Reload the page if all cells are filled and no winner
+        if (allCellsFilled) {
+            alert('Draw!');
+            location.reload();
+        }
+    }
+
+    // Add click event listener to each cell
+    cells.forEach(cell => {
+        cell.addEventListener('click', () => {
+            // Check if the cell is empty
+            if (!cell.textContent) {
+                // Set value of the cell to 'X'
+                cell.textContent = 'X';
+                cell.style.color = "cyan"; // Just for demonstration
+                cell.style.fontSize = "5em"; // Just for demonstration
+                // Place 'O' in a random empty cell with delay
+                placeOWithDelay();
+                checkWinner(); // Check for winner after placing 'X'
+            }
+        });
+    });</script>

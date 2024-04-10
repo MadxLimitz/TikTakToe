@@ -1,0 +1,93 @@
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/appsettings.Development.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/appsettings.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.staticwebassets.runtime.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.deps.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.runtimeconfig.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.dll
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.pdb
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.csproj.AssemblyReference.cache
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.AssemblyInfoInputs.cache
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.AssemblyInfo.cs
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.csproj.CoreCompileInputs.cache
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.RazorAssemblyInfo.cache
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.RazorAssemblyInfo.cs
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.TikTakToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.build.TikTakToe.props
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TikTakToe.props
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TikTakToe.props
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.build.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.development.json
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/bundle/TikTakToe.styles.css
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/projectbundle/TikTakToe.bundle.scp.css
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.dll
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/refint/TikTakToe.dll
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.pdb
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.genruntimeconfig.cache
+/Users/sebastiansteiner/Documents/GitHub/TikTakToe/TikTakToe/obj/Debug/net7.0/ref/TikTakToe.dll
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/appsettings.Development.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/appsettings.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.staticwebassets.runtime.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.deps.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.runtimeconfig.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.dll
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.pdb
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.csproj.AssemblyReference.cache
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.AssemblyInfoInputs.cache
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.AssemblyInfo.cs
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.csproj.CoreCompileInputs.cache
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.RazorAssemblyInfo.cache
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.RazorAssemblyInfo.cs
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.TikTakToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.build.TikTakToe.props
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TikTakToe.props
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TikTakToe.props
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.build.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.development.json
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/bundle/TikTakToe.styles.css
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/projectbundle/TikTakToe.bundle.scp.css
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.dll
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/refint/TikTakToe.dll
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.pdb
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.genruntimeconfig.cache
+/Users/sebastiansteiner/Documents/Local/TikTakToe/TikTakToe/obj/Debug/net7.0/ref/TikTakToe.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/appsettings.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.staticwebassets.runtime.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.deps.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.runtimeconfig.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/bin/Debug/net7.0/TikTakToe.pdb
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.csproj.AssemblyReference.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.AssemblyInfoInputs.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.AssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.csproj.CoreCompileInputs.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.RazorAssemblyInfo.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.RazorAssemblyInfo.cs
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.TikTakToe.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.build.TikTakToe.props
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TikTakToe.props
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TikTakToe.props
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/bundle/TikTakToe.styles.css
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/scopedcss/projectbundle/TikTakToe.bundle.scp.css
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/refint/TikTakToe.dll
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.pdb
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/TikTakToe.genruntimeconfig.cache
+/Volumes/USB STICK/Code/VS/Passive Projects/TikTakToe/TikTakToe/obj/Debug/net7.0/ref/TikTakToe.dll
